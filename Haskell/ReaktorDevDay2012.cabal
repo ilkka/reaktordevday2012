@@ -12,3 +12,7 @@ Executable helloworld
 Executable wc
     Main-is: WC.hs
     Build-Depends: base
+
+Executable uniq
+    Main-is: Uniq.hs
+    Build-Depends: base
