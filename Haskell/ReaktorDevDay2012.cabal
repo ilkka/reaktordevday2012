@@ -8,3 +8,7 @@ Cabal-Version:	>= 1.2
 Executable HelloWorld
     Main-is:	HelloWorld.hs
     Build-Depends: base
+
+Executable WC
+    Main-is: WC.hs
+    Build-Depends: base
