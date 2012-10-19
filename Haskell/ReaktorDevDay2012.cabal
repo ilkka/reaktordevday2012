@@ -5,10 +5,10 @@ Author:			Ilkka Laukkanen
 Build-Type:		Simple
 Cabal-Version:	>= 1.2
 
-Executable HelloWorld
+Executable helloworld
     Main-is:	HelloWorld.hs
     Build-Depends: base
 
-Executable WC
+Executable wc
     Main-is: WC.hs
     Build-Depends: base
