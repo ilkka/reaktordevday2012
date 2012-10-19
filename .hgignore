@@ -2,7 +2,6 @@ syntax: glob
 *.hi
 *.hs
 *.o
+dist
 
 *.sublime-*
-Haskell/HelloWorld
-Haskell/Wc

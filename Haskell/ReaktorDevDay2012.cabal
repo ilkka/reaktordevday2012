@@ -1,0 +1,10 @@
+Name:			ReaktorDevDay2012
+Version:		0.0
+Description:	Stuff from Reaktor Dev Day 2012
+Author:			Ilkka Laukkanen
+Build-Type:		Simple
+Cabal-Version:	>= 1.2
+
+Executable HelloWorld
+    Main-is:	HelloWorld.hs
+    Build-Depends: base
