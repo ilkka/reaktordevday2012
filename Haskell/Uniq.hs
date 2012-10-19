@@ -1,4 +1,3 @@
-uniq :: [String] -> [String]
 uniq [] = []
 uniq (x:xs)
     | xs == []     = [x]
