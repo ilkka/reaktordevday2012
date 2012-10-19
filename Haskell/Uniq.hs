@@ -4,5 +4,4 @@ uniq (x:xs)
 	| head xs == x = uniq xs
 	| otherwise    = x : uniq xs
 
-work input = unlines (uniq (lines input))
-main = interact work
+main = interact (\x -> unlines (uniq (lines x)))
