@@ -1,6 +1,5 @@
 syntax: glob
 *.hi
-*.hs
 *.o
 dist
 
