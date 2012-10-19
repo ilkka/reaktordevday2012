@@ -1,0 +1,6 @@
+syntax: glob
+*.hi
+*.hs
+*.o
+
+*.sublime-*
